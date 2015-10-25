@@ -1,0 +1,23 @@
+name: giodelgado
+favicon: null
+layout_spectrum: 0.24223767663352191
+typography_spectrum: 0.8917414855677634
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2955846244003624
+  lightness: 0.04993088776245713
+  saturation: 0.5575758230406791
+  rhythmicContrast: 0.08605474443174899
+purpose: []
